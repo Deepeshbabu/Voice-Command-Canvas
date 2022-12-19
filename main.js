@@ -59,7 +59,6 @@ function draw() {
     document.getElementById("status").innerHTML = to_number + " Apples drawn";
     draw_apple = "";
     speak_data = to_number + "Apples Drawn" ;
-    canvas.clear() ;
   }
 }
 
